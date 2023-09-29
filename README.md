@@ -4,7 +4,7 @@
 # Contributors
 <div align="center">
 <a href="https://github.com/UmangDalvadi/Hactoberfest2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=UmangDalvadi/Hacktoberfest2023" />
+  <img src="https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false" />
 </a>
 </div>
 
