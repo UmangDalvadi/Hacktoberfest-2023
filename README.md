@@ -61,7 +61,7 @@ git push origin branchA
 
 **For Upload your code**
 
-- Follow same steps as above but this time add your file in `Upload Your Code` folder and push it.
+- Follow same steps as above but this time add your file in `Upload Your Code/<appropriate-folder-according-to-your-code>/` folder and push it.
 
 **⭐ Star this repo**
 
