@@ -59,5 +59,9 @@ git push origin branchA
 ```
 - Create a pull request
 
+**For Upload your code**
 
+- Follow same steps as above but this time add your file in `Upload Your Code` folder and push it.
+
+**⭐ Star this repo**
 
