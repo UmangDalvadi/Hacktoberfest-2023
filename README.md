@@ -3,7 +3,7 @@
 
 # Contributors
 <div align="center">
-<a href="https://github.com/UmangDalvadi/Hacktoberfest2023/graphs/contributors">
+<a href="https://github.com/UmangDalvadi/Hactoberfest2023/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=UmangDalvadi/Hacktoberfest2023" />
 </a>
 </div>
