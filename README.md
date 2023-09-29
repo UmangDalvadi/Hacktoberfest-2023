@@ -1,5 +1,7 @@
-# HacktoberFest 2023 OPEN FIRST Pull Request -
+# HacktoberFest 2023 
 ![HacktoberFest 2023](https://github.com/ossamamehmood/Hacktoberfest2023/raw/main/.github/logo.png)
+
+
 
 ## This Repo Is Totally `beginner friendly`, Perfect For Your `First Pull Request`:
 📢 **Hacktoberfest is an annual worldwide event held during the month of October. The event encourages open source developers to contribute to repositories through pull requests (PR).**
