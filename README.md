@@ -31,7 +31,7 @@ Keep in mind that the repo has hacktoberfest topic.**
 - Clone your forked repository to your PC
   
 ```
-git clone https://github.com/UmangDalvadi/Hactoberfest2023.git
+git clone https://github.com/UmangDalvadi/Hacktoberfest-2023.git
 ```
 - Create a new branch for your modifications
     
