@@ -22,9 +22,12 @@ If you fail to make 4 pull requests then you can't get your digital reward.
 I will recommend you make a pull request to your own repo which is very very safe for you.
 Keep in mind that the repo has hacktoberfest topic.**
 
+## Give this Project a Star ⭐
+**please share this repo as much as you can and star this repo to help as many people in opensource as you can.**
+
 ## Steps To Make Your First Pull Request
 
-- Fork this Repository.
+- Fork this Repository by using the <kbd><b>Fork</b></kbd></a> button.
 - Clone your forked repository to your PC
   
 ```
@@ -40,18 +43,14 @@ git branch branchA
 ```
 git checkout branchA
 ```
-- Open your cloned folder in pc and Add your profile image in `contributors/image/` (Replace `<YOUR-USERNAME>` by your GitHub username)
-- Make sure your image format is in `.jpg` or `.png`
-```
-contributors/image/<YOUR-USERNAME>.png
-```
-- Now open `git` and Add your files
+- Open your cloned folder in pc and Add your code in `Upload Your Code/<appropriate-folder-according-to-your-code>/` folder
+- Now open `git` and Add your changes
 ```
 git add .
 ```
 - Commit your changes with Proper commit message
 ```
-git commit -m "added image"
+git commit -m "added my code in `<folder-name>` folder"
 ```
 - Push your changes
 ```
@@ -59,9 +58,8 @@ git push --set-upstream origin branchA
 ```
 - Create a pull request
 
-**For Upload your code**
+## Hurray!! You just got closer to complete your hacktoberfest challenge.
 
-- Follow same steps as above but this time add your file in `Upload Your Code/<appropriate-folder-according-to-your-code>/` folder and push it.
 
 **⭐ Star this repo**
 
