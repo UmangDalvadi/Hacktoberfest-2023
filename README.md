@@ -55,7 +55,7 @@ git commit -m "added image"
 ```
 - Push your changes
 ```
-git push origin branchA
+git push --set-upstream origin branchA
 ```
 - Create a pull request
 
