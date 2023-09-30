@@ -61,5 +61,3 @@ git push --set-upstream origin branchA
 ## Hurray!! You just got closer to complete your hacktoberfest challenge.
 
 
-**⭐ Star this repo**
-
