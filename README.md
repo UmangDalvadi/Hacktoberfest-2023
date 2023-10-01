@@ -57,6 +57,7 @@ git commit -m "added my code in `<folder-name>` folder"
 git push --set-upstream origin branchA
 ```
 - Create a pull request
+- Do not forget to `STAR ⭐` this repo
 
 ## Hurray!! You just got closer to complete your hacktoberfest challenge.
 
