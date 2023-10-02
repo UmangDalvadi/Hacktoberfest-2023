@@ -6,7 +6,7 @@
 ## This Repo Is Totally `beginner friendly`, Perfect For Your `First Pull Request`:
 📢 **Hacktoberfest is an annual worldwide event held during the month of October. The event encourages open source developers to contribute to repositories through pull requests (PR).**
 
-🚀**[Register](https://hacktoberfest.digitalocean.com) anytime between September 26 and October 31**
+**🚀[Register](https://hacktoberfest.digitalocean.com) anytime between September 26 and October 31**
 
 🎮**You can join Hactoberfest [`Discord Server`](https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVHdvZ1VBQU16ZktjdmZLUUdLNGZObDc4c1B0Uk1DdHdWcTQ4QT0iLCJocmVmIjoiaHR0cHM6Ly9kaXNjb3JkLmNvbS9pbnZpdGUvaGFja3RvYmVyZmVzdCIsImludGVybmFsIjoiZjBhMjA1MTZhYmJiMDFjY2RmMjkiLCJsaW5rX2lkIjoxMzJ9/c7dfa7efbdc718aa395bd71a49a7b23f15d2e1f767cb53b5880eb70d77e525c7)**
 
