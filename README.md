@@ -61,4 +61,10 @@ git push --set-upstream origin branchA
 
 ## Hurray!! You just got closer to complete your hacktoberfest challenge.
 
+## + Follow Me : } 
+
+<tr><td align="center"><a href="https://github.com/UmangDalvadi"><kbd><img src="https://avatars3.githubusercontent.com/UmangDalvadi?size=100" width="100px;" alt=""/></kbd><br /><b>Umang Dalvadi</b></a><br /></td>
+
+</tr>
+
 
