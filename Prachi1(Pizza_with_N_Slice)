@@ -1,0 +1,24 @@
+//Pizza with N slices
+
+#include<iostream>
+#include<vector>
+using namespace std;
+int solve(vector<int>arr,int s, int e, int n){
+    if(n==0 || s>e)
+        return 0;
+    int pick = arr[s] + solve(arr,s+2,e,n-1);
+    int notpick = 0 + solve(arr,s+1,e,n-1);
+    return max(pick, notpick);
+}
+int maxpizza(vector<int>arr){
+    int maxsize = arr.size();
+    int ans1 = solve(arr,0,arr.size()-2,maxsize/3);
+    int ans2 = solve(arr,1,arr.size()-1,maxsize/3);
+    int ans = max(ans1, ans2);
+    return ans;
+}
+int main()
+{
+   vector<int>arr = {1,2,3,4,5,6};
+   cout<<maxpizza(arr)<<endl;
+}
