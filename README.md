@@ -1,10 +1,10 @@
 # HacktoberFest 2023 
 ![HacktoberFest 2023](https://github.com/ossamamehmood/Hacktoberfest2023/raw/main/.github/logo.png)
 
-<!--## This repo is excluded from Hacktoberfest because of spamming and bad PRs,
+## This repo is excluded from Hacktoberfest because of spamming and bad PRs,
 ## 👉Keep your EYE👀 on the account I'll create a new repo for hacktoberfest 2023 in few days
 
-##-->
+##
 
 
 ## This Repo Is Totally `beginner friendly`, Perfect For Your `First Pull Request`:
